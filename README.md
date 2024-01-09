@@ -1,4 +1,4 @@
-# Tic Tac Toe Game in ReactJS
+# Tic-Tac-Toe Game in ReactJS
 
 ## Description
 This Tic Tac Toe game is a fun and interactive web application built using ReactJS, HTML, and CSS. It demonstrates the use of React's `useState` hook and various coding patterns like Two-Way Binding, Immutable State Updates, and Lifting State Up. The project also explores advanced concepts like sharing state across components and performing deep copies of objects.
