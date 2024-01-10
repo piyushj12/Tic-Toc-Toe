@@ -31,5 +31,6 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Suggesting enhancements or new features.
 - Improving documentation or code quality.
 
+---
 This project is a demonstration of modern ReactJS practices and state management techniques. Enjoy playing the game and feel free to contribute!
 
