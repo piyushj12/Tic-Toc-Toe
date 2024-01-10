@@ -11,6 +11,9 @@ This Tic Tac Toe game is a fun and interactive web application built using React
 - Lifting state up to share state across components.
 - Techniques for deep copying objects to prevent direct state mutation.
 
+## Live Demo
+Check out the live application [https://tic-tac-toe-1b069.web.app/].
+
 ## Installation
 To run this project locally, follow these steps:
 
@@ -28,6 +31,5 @@ Contributions to this project are welcome! Here are some ways you can contribute
 - Suggesting enhancements or new features.
 - Improving documentation or code quality.
 
-To contribute, please fork the repository and submit a pull request with your changes.
 This project is a demonstration of modern ReactJS practices and state management techniques. Enjoy playing the game and feel free to contribute!
 
